@@ -4,4 +4,4 @@
 
 #### Addison-Wesley
 
-PDFs of the entire book
+PDFs of the entire book as well as each of its parts separately 
